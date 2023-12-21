@@ -53,3 +53,5 @@ app.get("/posts/:postName", function (req, res) {
 app.listen(3000, function () {
   console.log("Server started on port 3000");
 });
+
+//i made the changes in the app.js;not actualy changes this comment only..
